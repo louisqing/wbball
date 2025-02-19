@@ -1,0 +1,135 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1920px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u4023_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1920px;
+  height:1025px;
+}
+#u4023 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:725px;
+  width:1920px;
+  height:1025px;
+  display:flex;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+#u4023 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u4023_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u4024_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1509px;
+  height:675px;
+}
+#u4024 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1509px;
+  height:675px;
+  display:flex;
+}
+#u4024 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u4024_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u4025 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u4026_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:378px;
+  height:772px;
+}
+#u4026 {
+  border-width:0px;
+  position:absolute;
+  left:1260px;
+  top:823px;
+  width:378px;
+  height:772px;
+  display:flex;
+}
+#u4026 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u4026_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u4027 {
+  border-width:0px;
+  position:absolute;
+  left:1285px;
+  top:915px;
+  width:328px;
+  height:588px;
+}
+#u4027_input {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:328px;
+  height:588px;
+  overflow:auto;
+}
