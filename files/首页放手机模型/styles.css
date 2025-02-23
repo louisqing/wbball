@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u4101_img {
+#u4103_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:1920px;
   height:1025px;
 }
-#u4101 {
+#u4103 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -36,71 +36,33 @@
   font-weight:400;
   font-style:normal;
 }
-#u4101 .text {
+#u4103 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u4101_text {
+#u4103_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-}
-#u4102_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1509px;
-  height:675px;
-}
-#u4102 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1509px;
-  height:675px;
-  display:flex;
-}
-#u4102 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u4102_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u4103 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  height:0px;
 }
 #u4104_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:378px;
-  height:772px;
+  width:1509px;
+  height:675px;
 }
 #u4104 {
   border-width:0px;
   position:absolute;
-  left:1260px;
-  top:823px;
-  width:378px;
-  height:772px;
+  left:0px;
+  top:0px;
+  width:1509px;
+  height:675px;
   display:flex;
 }
 #u4104 .text {
@@ -119,12 +81,50 @@
 #u4105 {
   border-width:0px;
   position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u4106_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:378px;
+  height:772px;
+}
+#u4106 {
+  border-width:0px;
+  position:absolute;
+  left:1260px;
+  top:823px;
+  width:378px;
+  height:772px;
+  display:flex;
+}
+#u4106 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u4106_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u4107 {
+  border-width:0px;
+  position:absolute;
   left:1285px;
   top:915px;
   width:328px;
   height:588px;
 }
-#u4105_input {
+#u4107_input {
   border-width:0px;
   position:absolute;
   left:0px;
