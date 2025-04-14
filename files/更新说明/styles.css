@@ -22,7 +22,7 @@
   left:36px;
   top:44px;
   width:903px;
-  height:196px;
+  height:218px;
 }
 #u1_img {
   border-width:0px;
@@ -126,7 +126,7 @@
   left:0px;
   top:0px;
   width:183px;
-  height:38px;
+  height:22px;
 }
 #u4 {
   border-width:0px;
@@ -134,7 +134,7 @@
   left:0px;
   top:22px;
   width:183px;
-  height:38px;
+  height:22px;
   display:flex;
   font-family:'NunitoSans-Regular', 'Nunito Sans', sans-serif;
   font-weight:400;
@@ -159,7 +159,7 @@
   left:0px;
   top:0px;
   width:498px;
-  height:38px;
+  height:22px;
 }
 #u5 {
   border-width:0px;
@@ -167,7 +167,7 @@
   left:183px;
   top:22px;
   width:498px;
-  height:38px;
+  height:22px;
   display:flex;
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
@@ -192,7 +192,7 @@
   left:0px;
   top:0px;
   width:222px;
-  height:38px;
+  height:22px;
 }
 #u6 {
   border-width:0px;
@@ -200,7 +200,7 @@
   left:681px;
   top:22px;
   width:222px;
-  height:38px;
+  height:22px;
   display:flex;
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
@@ -225,15 +225,15 @@
   left:0px;
   top:0px;
   width:183px;
-  height:34px;
+  height:38px;
 }
 #u7 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:60px;
+  top:44px;
   width:183px;
-  height:34px;
+  height:38px;
   display:flex;
   font-family:'NunitoSans-Regular', 'Nunito Sans', sans-serif;
   font-weight:400;
@@ -258,15 +258,15 @@
   left:0px;
   top:0px;
   width:498px;
-  height:34px;
+  height:38px;
 }
 #u8 {
   border-width:0px;
   position:absolute;
   left:183px;
-  top:60px;
+  top:44px;
   width:498px;
-  height:34px;
+  height:38px;
   display:flex;
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
@@ -291,15 +291,15 @@
   left:0px;
   top:0px;
   width:222px;
-  height:34px;
+  height:38px;
 }
 #u9 {
   border-width:0px;
   position:absolute;
   left:681px;
-  top:60px;
+  top:44px;
   width:222px;
-  height:34px;
+  height:38px;
   display:flex;
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
@@ -330,7 +330,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:94px;
+  top:82px;
   width:183px;
   height:34px;
   display:flex;
@@ -363,7 +363,7 @@
   border-width:0px;
   position:absolute;
   left:183px;
-  top:94px;
+  top:82px;
   width:498px;
   height:34px;
   display:flex;
@@ -396,7 +396,7 @@
   border-width:0px;
   position:absolute;
   left:681px;
-  top:94px;
+  top:82px;
   width:222px;
   height:34px;
   display:flex;
@@ -429,7 +429,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:128px;
+  top:116px;
   width:183px;
   height:34px;
   display:flex;
@@ -437,7 +437,6 @@
   font-weight:400;
   font-style:normal;
   font-size:12px;
-  color:#000000;
 }
 #u13 .text {
   position:absolute;
@@ -463,7 +462,7 @@
   border-width:0px;
   position:absolute;
   left:183px;
-  top:128px;
+  top:116px;
   width:498px;
   height:34px;
   display:flex;
@@ -496,7 +495,7 @@
   border-width:0px;
   position:absolute;
   left:681px;
-  top:128px;
+  top:116px;
   width:222px;
   height:34px;
   display:flex;
@@ -529,7 +528,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:162px;
+  top:150px;
   width:183px;
   height:34px;
   display:flex;
@@ -563,7 +562,7 @@
   border-width:0px;
   position:absolute;
   left:183px;
-  top:162px;
+  top:150px;
   width:498px;
   height:34px;
   display:flex;
@@ -596,7 +595,7 @@
   border-width:0px;
   position:absolute;
   left:681px;
-  top:162px;
+  top:150px;
   width:222px;
   height:34px;
   display:flex;
@@ -613,6 +612,106 @@
   width:100%;
 }
 #u18_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u19_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:183px;
+  height:34px;
+}
+#u19 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:184px;
+  width:183px;
+  height:34px;
+  display:flex;
+  font-family:'NunitoSans-Regular', 'Nunito Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#000000;
+}
+#u19 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u19_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u20_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:498px;
+  height:34px;
+}
+#u20 {
+  border-width:0px;
+  position:absolute;
+  left:183px;
+  top:184px;
+  width:498px;
+  height:34px;
+  display:flex;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+}
+#u20 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u20_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u21_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:222px;
+  height:34px;
+}
+#u21 {
+  border-width:0px;
+  position:absolute;
+  left:681px;
+  top:184px;
+  width:222px;
+  height:34px;
+  display:flex;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+}
+#u21 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u21_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
