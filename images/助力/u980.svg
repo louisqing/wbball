@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="375px" height="408px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="39px" height="41px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip650">
-      <path d="M 1885 682  L 1990 682  L 1990 704  L 1885 704  Z M 1749 488  L 2124 488  L 2124 896  L 1749 896  Z " fill-rule="evenodd" />
+    <mask fill="white" id="clip53">
+      <path d="M 106.5 259  C 95.6775 259  87 250.3225  87 239.5  L 87 237.5  C 87 226.6775  95.6775 218  106.5 218  L 106.5 218  C 117.3225 218  126 226.6775  126 237.5  L 126 239.5  C 126 250.3225  117.3225 259  106.5 259  " fill-rule="evenodd" />
     </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -1749 -488 )">
-    <path d="M 1749.5 488.5  L 2123.5 488.5  L 2123.5 895.5  L 1749.5 895.5  L 1749.5 488.5  Z " fill-rule="nonzero" fill="#f2f2f2" stroke="none" />
-    <path d="M 1749.5 488.5  L 2123.5 488.5  L 2123.5 895.5  L 1749.5 895.5  L 1749.5 488.5  Z " stroke-width="1" stroke="#797979" fill="none" />
-    <path d="M 1749.36812730999 488.400522513272  L 2123.63187269001 895.599477486728  M 2123.63187269001 488.400522513272  L 1749.36812730999 895.599477486728  " stroke-width="1" stroke="#797979" fill="none" mask="url(#clip650)" />
+  <g transform="matrix(1 0 0 1 -87 -218 )">
+    <path d="M 87 218  L 126 218  L 126 259  L 87 259  L 87 218  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip53)" />
+    <path d="M 90 221  L 123 221  L 123 256  L 90 256  L 90 221  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip53)" />
+    <path d="M 110.205 230  C 108.567 230  107.28 228.713  107.28 227.075  C 107.28 225.437  108.567 224.15  110.205 224.15  C 111.843 224.15  113.13 225.437  113.13 227.075  C 113.13 228.713  111.843 230  110.205 230  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip53)" />
+    <path d="M 91 255  L 91 236.85  L 98.75 228.6  L 109.6 235.2  L 115.8 233.55  L 122 235.2  L 122 255  L 91 255  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip53)" />
   </g>
 </svg>
